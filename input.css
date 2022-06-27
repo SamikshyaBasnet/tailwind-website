@@ -16,6 +16,10 @@ body {
 
 }
 
+footer {
+    background-color: black;
+}
+
 @media (max-width: 576px) {
     body {
         background-position: 590px -50px;
